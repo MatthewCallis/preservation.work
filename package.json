@@ -16,7 +16,7 @@
     "compression": "^1.7.4",
     "dotenv": "^7.0.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-ejs-layouts": "^2.5.0",
     "express-recaptcha": "^4.2.0",
     "highlight.js": "^9.15.6",
